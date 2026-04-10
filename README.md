@@ -5,9 +5,9 @@ O conteúdo desse repositório inclui conteúdos da matéria Introdução à Pro
 Aqui, serão encontrados projetos pessoais simples e respostas para as listas de exercícios demandadas pelo professor em questão
 
 EM SALA DE AULA:
-- Lista_Python_01
-- Lista_Python_02
-- Lista_Python_03
+- Lista_Python_01    #.py = contém o código-resposta para teste. // .docx = contém as questões, nome do arquivo-resposta e código-resposta reescrito
+- Lista_Python_02    #.py = contém o código-resposta para teste. // .docx = contém as questões, nome do arquivo-resposta e código-resposta reescrito
+- Lista_Python_03    #.py = contém o código-resposta para teste. // .docx = contém as questões, nome do arquivo-resposta e código-resposta reescrito
 
 PROJETOS PESSOAIS:
-- Calculadora
+- CalcMenu.py    #Calculadora simples com menu
