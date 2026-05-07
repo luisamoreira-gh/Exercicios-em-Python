@@ -11,4 +11,4 @@ EM SALA DE AULA:
 
 PROJETOS PESSOAIS:
 - CalcMenu.py    #Calculadora simples com menu. // Feito com uso do VSCode
-- Treinos1.py    #Códigos resposta baseados em uma lista de exercícios criada pelo NotebookLM. // Contém as questões em formato de comentário, e o código-resposta. // Feito com uso do VSCode
+- Treinos(1 & 2).py    #Códigos-resposta baseados em listas de exercícios criadas pelo NotebookLM. // Contém as questões em formato de comentário, e o código-resposta. // Feito com uso do VSCode
