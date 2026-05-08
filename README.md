@@ -12,3 +12,4 @@ EM SALA DE AULA:
 PROJETOS PESSOAIS:
 - CalcMenu.py    #Calculadora simples com menu. // Feito com uso do VSCode
 - Treinos(1 & 2).py    #Códigos-resposta baseados em listas de exercícios criadas pelo NotebookLM. // Contém as questões em formato de comentário, e o código-resposta. // Feito com uso do VSCode
+- DesafioDemetrius.py    #Código-resposta baseados em questão-desafio proposta pelo professor em sala, como forma de exercitar o uso de lambda. // Contém a questão em formato de comentário, e o código-resposta. // Feito com uso do VSCode
