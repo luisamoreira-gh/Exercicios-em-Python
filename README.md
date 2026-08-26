@@ -9,6 +9,7 @@ EM SALA DE AULA:
 - Lista_Python_02    #.py = contém o código-resposta para teste. // .docx = contém as questões, nome do arquivo-resposta e código-resposta reescrito // Feito com uso do VSCode
 - Lista_Python_03    #.py = contém o código-resposta para teste. // .docx = contém as questões, nome do arquivo-resposta e código-resposta reescrito // Feito com uso do VSCode
 - Lista_Python_04    #.ipynb = Contém as questões em formato de comentário e o código-resposta // Feito com uso do Google Colab
+- Lista_Python_05    #.ipynb = Contém as questões em formato de comentário e o código-resposta // Feito com uso do Google Colab
 
 PROJETOS PESSOAIS:
 - CalcMenu.py    #Calculadora simples com menu. // Feito com uso do VSCode
