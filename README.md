@@ -11,6 +11,8 @@ EM SALA DE AULA:
 - Lista_Python_04    #.ipynb = Contém as questões em formato de comentário e o código-resposta // Feito com uso do Google Colab
 - Lista_Python_05    #.ipynb = Contém as questões em formato de comentário e o código-resposta // Feito com uso do Google Colab
 - Lista_Python_06    #.ipynb = Contém as questões em formato de comentário e o código-resposta // Feito com uso do Google Colab
+- Lista_Python_07    #.ipynb = Contém as questões em formato de comentário e o código-resposta // Feito com uso do Google Colab
+- Lista_Python_08    #.ipynb = Contém as questões em formato de comentário e o código-resposta // Feito com uso do Google Colab
 
 PROJETOS PESSOAIS:
 - CalcMenu.py    #Calculadora simples com menu. // Feito com uso do VSCode
